@@ -1,0 +1,8 @@
+C:\Users\jocel\source\repos\Shopp\Shopp\bin\Debug\Shopp.exe.config
+C:\Users\jocel\source\repos\Shopp\Shopp\bin\Debug\Shopp.exe
+C:\Users\jocel\source\repos\Shopp\Shopp\bin\Debug\Shopp.pdb
+C:\Users\jocel\source\repos\Shopp\Shopp\obj\Debug\Shopp.csproj.AssemblyReference.cache
+C:\Users\jocel\source\repos\Shopp\Shopp\obj\Debug\Shopp.csproj.SuggestedBindingRedirects.cache
+C:\Users\jocel\source\repos\Shopp\Shopp\obj\Debug\Shopp.csproj.CoreCompileInputs.cache
+C:\Users\jocel\source\repos\Shopp\Shopp\obj\Debug\Shopp.exe
+C:\Users\jocel\source\repos\Shopp\Shopp\obj\Debug\Shopp.pdb
